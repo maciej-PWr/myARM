@@ -4,3 +4,6 @@
  * obsługa diod LED
  * zliczanie czasu
  * kalendarz
+
+* nowe zmiany
+* nowe pliki
