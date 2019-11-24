@@ -4,5 +4,3 @@
  * obsługa diod LED
  * zliczanie czasu
  * kalendarz
-
- 
